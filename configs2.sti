@@ -1,0 +1,4 @@
+//monickers |ms|= mis documentos |fo|= instalation folder |dt|= desktop
+laBaseDeDatos: DBmusicador.db
+ultimaCancion: 12
+nuevo: si

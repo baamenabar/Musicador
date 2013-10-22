@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lista>
+  <tipo nombre="CEREMONY">
+  <cancion nombre="D:/MP3 Ingles A - L/BT - Fast and the Furious.mp3"></cancion>
+    <cancion nombre="E:/mp3/Noir - Salva Nos II.mp3"></cancion>
+    <cancion nombre="E:/mp3/Dead Can Dance - Baraka - Mantra Organics.mp3">
+      <comentario>profundidades, badabum a los 1:41 </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Dead Can Dance - The Serpent's Egg - 02 - Orbis De Ignis.mp3">
+      <comentario>ceremonia de muerte </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Original Movie OST/01 - Making of Cyborg (Chant I).mp3">
+      <comentario>procesión religiosa china rara </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="MYSTIC">
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST/STAND ALONE COMPLEX O.S.T - 12 -Fish ~ Silent Cruise.mp3">
+      <comentario>primera parte </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST 2/09 - Go DA DA.mp3">
+      <comentario>misterio bizarro </comentario>
+    </cancion>
+    <cancion nombre="E:/MP3 Ingles A - L/Loreena McKennitt - The Mystic's Dream.mp3">
+      <comentario>principio </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/06.09 - 06.49 - Cliff Martinez - Wear Your Seatbelt.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/05.33 - 06.00 - Cliff Martinez - First Sleep.mp3"></cancion>
+  </tipo>
+  <tipo nombre="ANTHEM VICTORIA!!!">
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Solid State Society OST/11 - human step ~ aramaki's theme.mp3"></cancion>
+    <cancion nombre="E:/mp3/OST 300/OST 300 Soundtrack - Remember Us.mp3">
+      <comentario>segunda mitad es más power </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST 2 - Be Human/13_good_my_my_master.mp3">
+      <comentario>gloria </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="PRE BATTLE">
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/24.38 - 25.58 - Harry Gregson-Williams - Sanchez Family.mp3">
+      <comentario>stellview pass </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Buddha-Bar (CD Series)/Siddharta- Spirit Of Buddha Bar, Vol- 3 (2006)/16 - Craig Armstrong - Hanging.mp3"></cancion>
+    <cancion nombre="E:/Mp3 Español/Hevia - Añada.mp3">
+      <comentario>niños a la guerra, desde la mitad </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Solid State Society OST/09 - undivided.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/55.34 - 56.06 - Christopher Gordon, Iva Davies - Into the Fog.mp3"></cancion>
+    <cancion nombre="E:/mp3/OST Underworld - 17 - Renholder - Death Dealers Descent.mp3"></cancion>
+  </tipo>
+  <tipo nombre="BATTLE">
+    <cancion nombre="E:/musica/Nightwish -  End Of All Hope.mp3"></cancion>
+    <cancion nombre="E:/mp3/Tool - 2001 - Lateralus/12-Triad.mp3"></cancion>
+    <cancion nombre="E:/MP3 Ingles A - L/Loreena McKennitt - Irish Music.mp3">
+      <comentario>tambores </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Tool - 2001 - Lateralus/08-Ticks_&_Leaches.mp3">
+      <comentario>principio </comentario>
+    </cancion>
+    <cancion nombre="E:/Download/Top Gear S10E10 - Soundtrack/24.44 - 25.39 - Harry Gregson-Williams - Nightmare.mp3"></cancion>
+    <cancion nombre="E:/Download/Top Gear S10E10 - Soundtrack/39.01 - 39.22 - Klaus Badelt - Swords Crossed.mp3">
+      <comentario>(2da mitad)</comentario>
+    </cancion>
+    <cancion nombre="E:/musica/A Perfect Circle Discography/A Perfect Circle - eMOTIVE/A Perfect Circle - Counting Bodies Like Sheep To.mp3"></cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST/STAND ALONE COMPLEX O.S.T - 12 -Fish ~ Silent Cruise.mp3">
+      <comentario>segunda parte </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Solid State Society OST/03 - zero signal.mp3">
+      <comentario>desde el minuto 1:00 </comentario>
+    </cancion>
+    <cancion nombre="E:/MP3 Ingles A - L/Apocaliptica - Inquisition Symphony.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/Brian Tyler - Downtown Tokyo Chase.mp3"></cancion>
+    <cancion nombre="E:/mp3/Gladiator - Barbarian Horde.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/Top Gear S10 - Soundtrack update pack + Bonus CD/Top Gear S10E09 - Soundtrack/07.24 - 07.45 - Killing Joke - Walking With Gods.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/Top Gear S10 - Soundtrack update pack + Bonus CD/Top Gear S10E09 - Soundtrack/18.20 - 18.36 - Amon Tobin - Kokubo Sosho Battle.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/57.01 - 58.02 - Massive Attack - I Am Home.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/Top Gear S10E06 - Soundtrack/05.08 - 05.42 - Michael Giacchino - Helluvacopter Chase.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/Top Gear S10E05 - Soundtrack/05.36 - 06.12 - Cato - Thunderworld.mp3"></cancion>
+  </tipo>
+  <tipo nombre="DUNGEON">
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST 2/14 - security off.mp3">
+      <comentario>gotas y tambores, dungeon húmedo </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/42.38 - 43.07 - Tan Dun - Night Fight.mp3"></cancion>
+    <cancion nombre="E:/MP3 Ingles A - L/Apocaliptica - Inquisition Symphony.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/55.34 - 56.06 - Christopher Gordon, Iva Davies - Into the Fog.mp3"></cancion>
+    <cancion nombre="E:/MP3 Ingles A - L/Delerium - Drama.mp3"></cancion>
+  </tipo>
+  <tipo nombre="DUNGEON MISTERIO">
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Solid State Society OST/05 - tempest.mp3"></cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST/STAND ALONE COMPLEX O.S.T - 07 -Shibirian Dooru Housu (Siberian Doll House).mp3"></cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST/STAND ALONE COMPLEX O.S.T - 12 -Fish ~ Silent Cruise.mp3">
+      <comentario>desde el minuto 5:00 </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST 2/17 - we can't be cool.mp3"></cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Original Movie OST/02 - Ghosthack.mp3">
+      <comentario>caverna tambores </comentario>
+    </cancion>
+    <cancion nombre="E:/MP3 Ingles A - L/Delerium - Drama.mp3"></cancion>
+  </tipo>
+  <tipo nombre="ACCION">
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/56.31 - 58.02 - Hans Zimmer - Tribal War.mp3">
+      <comentario>stellview pass </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/E.S. Posthumus - Lepcis Magna.mp3">
+      <comentario>principio </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/Brian Tyler - Downtown Tokyo Chase.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/Top Gear S10 - Soundtrack update pack + Bonus CD/Most Wanted Background Music/01 - Hybrid - Ultimatum.mp3"></cancion>
+  </tipo>
+  <tipo nombre="HARD CORE BATTLE">
+    <cancion nombre="E:/mp3/Tool - 1992 - Opiate/01 Sweat.mp3">
+      <comentario>mitad </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Staind - No One's Kind.mp3">
+      <comentario>especialmente el principio </comentario>
+    </cancion>
+    <cancion nombre="E:/MP3 Ingles A - L/Ill Nino - Predisposed.mp3"></cancion>
+  </tipo>
+  <tipo nombre="MISTERIO">
+    <cancion nombre="E:/MP3 Ingles A - L/Delerium - Song of the Dead.mp3"></cancion>
+    <cancion nombre="E:/MP3 Ingles A - L/Delerium - Window to your soul.mp3"></cancion>
+    <cancion nombre="E:/MP3 Ingles A - L/Bach - Organ.mp3"></cancion>
+    <cancion nombre="E:/mp3/Loreena McKennitt - Lullaby.mp3">
+      <comentario>EDIT </comentario>
+    </cancion>
+    <cancion nombre="E:/Download/Top Gear S10E10 - Soundtrack/50.15 - 50.21 - Harry Gregson-Williams - Finishing the Book.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/39.05 - 39.14 - Hans Zimmer - Hunger.mp3">
+      <comentario>3er Cuarto </comentario>
+    </cancion>
+    <cancion nombre="E:/Mp3 Anime/Vision of Escaflowne - Shadow of doubt.mp3">
+      <comentario>primera parte </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/The Butterfly Effect - 11 - The Mailbox.mp3"></cancion>
+    <cancion nombre="E:/mp3/Noir - Salva Nos II.mp3"></cancion>
+    <cancion nombre="E:/mp3/Mercan Dede - Baraka.mp3">
+      <comentario>(costa boscosa) segunda mitad con tambores tribales</comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Original Movie OST/03 - Puppetmaster.mp3"></cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Original Movie OST/04 - Virtual Crime.mp3">
+      <comentario>ultimo tercio es de descubrimiento </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/55.07 - 55.34 - Alexandre Desplat - Driving in Geneva.mp3"></cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Innocence OST/[09][THE DOLL HOUSE II].mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/06.09 - 06.49 - Cliff Martinez - Wear Your Seatbelt.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/05.33 - 06.00 - Cliff Martinez - First Sleep.mp3"></cancion>
+  </tipo>
+  <tipo nombre="AVENTURA">
+    <cancion nombre="E:/mp3/Last Exile - Fleet of Littleships.mp3"></cancion>
+    <cancion nombre="E:/Mp3 Español/Hevia - Baños de Budapest.mp3">
+      <comentario>segunda mitad </comentario>
+    </cancion>
+    <cancion nombre="E:/Mp3 Español/Hevia - Celta.mp3"></cancion>
+    <cancion nombre="E:/Mp3 Español/Hevia - El saltón.mp3">
+      <comentario>llamando a la batalla </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST 3/04 - Laser Seeker.mp3">
+      <comentario>energética </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/44.16 - 45.08 - Ilan Eshkeri - Septimus.mp3">
+      <comentario>epica </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/OST Arjuna - CD1 - 04 - Time to Die.mp3">
+      <comentario>segunda mitad </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="ARRANCA CORRE">
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST/STAND ALONE COMPLEX O.S.T - 01 -Run Rabbit Junk.mp3"></cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST/STAND ALONE COMPLEX O.S.T - 06 -Train Search.mp3"></cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST 2/13 - pet food.mp3">
+      <comentario>correr divertido </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST 3/04 - Laser Seeker.mp3"></cancion>
+    <cancion nombre="E:/mp3/OST Arjuna - CD1 - 04 - Time to Die.mp3">
+      <comentario>segunda mitad </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="COWBOY WESTERN">
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/31.46 - 32.24 - Gert Wilden & Orchestra - Schulmaedchen Report (Title Theme).mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/22.26 - 22.45 - Link Wray - Rumble.mp3">
+      <comentario>gitarras malulas </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="BOSQUE">
+    <cancion nombre="E:/MP3 Ingles A - L/Delerium - Twilight.mp3"></cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST 3/03 - know your enemy.mp3"></cancion>
+    <cancion nombre="E:/mp3/Dead Can Dance - Into The Labyrinth - 01 - Yulunga (Spirit Dance).mp3"></cancion>
+  </tipo>
+  <tipo nombre="VIAJE">
+    <cancion nombre="E:/MP3 Ingles A - L/Loreena McKennitt - Marco Polo.mp3"></cancion>
+    <cancion nombre="E:/mp3/Buddha-Bar (CD Series)/Buddha-Bar III (CD1 - Dream) (by Ravin) (2001)/10 - A Night In Lenasia (Deepak Ram).mp3"></cancion>
+    <cancion nombre="E:/Download/Top Gear S10E10 - Soundtrack/02.08 - 02.23 - Harry Gregson-Williams - Free Play.mp3"></cancion>
+    <cancion nombre="E:/mp3/Buddha-Bar (CD Series)/Buddha-Bar III (CD2 - Joy) (by Ravin) (2001)/05 - Starlight In Daden (Aurora Remix) (Ekova).mp3"></cancion>
+    <cancion nombre="E:/mp3/E.S. Posthumus - Lepcis Magna.mp3">
+      <comentario>viaje epico </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Sound Tribe Sector 9 - Baraka.mp3">
+      <comentario>Resumen de viaje tranquilo, electronico </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Mercan Dede - Baraka.mp3">
+      <comentario>costa boscosa </comentario>
+    </cancion>
+    <cancion nombre="E:/Mp3 Español/Hevia - Barganaz.mp3">
+      <comentario>planicies áridas </comentario>
+    </cancion>
+    <cancion nombre="E:/Mp3 Español/Hevia - Busindre Reel.mp3">
+      <comentario>planicies áridas </comentario>
+    </cancion>
+    <cancion nombre="E:/Mp3 Español/Hevia - Gaviotes.mp3"></cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST/STAND ALONE COMPLEX O.S.T - 04 -Surf.mp3">
+      <comentario>avanza ágil </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/46.09 - 46.25 - The Early Years - All Ones and Zeros.mp3">
+      <comentario>avanza rápido y bien, rockero </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/Top Gear S10 - Soundtrack update pack + Bonus CD/Top Gear S10E04 - Soundtrack/20.22 - 20.39 - Anugama & Sebastiano - African Journey.mp3"></cancion>
+  </tipo>
+  <tipo nombre="DESIERTO">
+    <cancion nombre="E:/Mp3 Español/Hevia - Tanzila.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/39.05 - 39.14 - Hans Zimmer - Hunger.mp3"></cancion>
+    <cancion nombre="E:/mp3/Buddha-Bar (CD Series)/Buddha-Bar III (CD2 - Joy) (by Ravin) (2001)/05 - Starlight In Daden (Aurora Remix) (Ekova).mp3"></cancion>
+    <cancion nombre="E:/mp3/Buddha-Bar (CD Series)/Siddharta - Spirit Of Buddha Bar - Passion (CD2) (By Ravin) (2003)/01 - Alihan Samedov - Sen Gelmez Oldun.mp3">
+      <comentario>primera mitad </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/Top Gear S10 - Soundtrack update pack + Bonus CD/Top Gear S10E04 - Soundtrack/20.22 - 20.39 - Anugama & Sebastiano - African Journey.mp3"></cancion>
+  </tipo>
+  <tipo nombre="PLANICIES DEL ESTE">
+    <cancion nombre="E:/mp3/Thievery Corporation/Thievery Corporation - The Richest Man In Babylon - 02 - Facing East.mp3"></cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Original Movie OST/07 - Nightstalker.mp3">
+      <comentario>tranqui </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Mercan Dede - Baraka.mp3">
+      <comentario>costa boscosa </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Thievery Corporation/Thievery Corporation - The Outernational Sound - 15 - Within You Without You.mp3"></cancion>
+  </tipo>
+  <tipo nombre="PLANICIES DE MEDIO ORIENTE">
+    <cancion nombre="E:/Mp3 Español/Hevia - Busindre Reel.mp3">
+      <comentario>(segunda mitad) viajando</comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Thievery Corporation/Thievery Corporation - The Outernational Sound - 15 - Within You Without You.mp3"></cancion>
+  </tipo>
+  <tipo nombre="NIEVE">
+    <cancion nombre="E:/Mp3 Español/Hevia - Fandangu los llobos.mp3"></cancion>
+    <cancion nombre="E:/Download/Top Gear S10E10 - Soundtrack/22.37 - 23.24 - Lisa Gerrard & Pieter Bourke - Tempest.mp3"></cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Original Movie OST/04 - Virtual Crime.mp3">
+      <comentario>ultimo tercio escarcha cristalina </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="MONTAÑA">
+    <cancion nombre="E:/mp3/Gladiator - Elysium.mp3"></cancion>
+    <cancion nombre="E:/Mp3 Español/Hevia - Alalá.mp3"></cancion>
+    <cancion nombre="E:/Mp3 Español/Hevia - Naves.mp3">
+      <comentario>rocas altura, peligro </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/OST Arjuna - CD2 - 09 - Girl with Power.mp3">
+      <comentario>avanzando por laderas montañosas </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="OCEANO">
+    <cancion nombre="E:/mp3/Dead Can Dance - Baraka - Mantra Organics.mp3">
+      <comentario>profundidades </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Dead Can Dance - Spleen And Ideal - 01 - De Profundis (Out Of The Depths Of Sorrow).mp3">
+      <comentario>profundidades </comentario>
+    </cancion>
+    <cancion nombre="E:/Mp3 Español/Hevia - El Garrotín.mp3">
+      <comentario>zarpando a la aventura </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/55.34 - 56.06 - Christopher Gordon, Iva Davies - Into the Fog.mp3"></cancion>
+  </tipo>
+  <tipo nombre="MERCADO">
+    <cancion nombre="E:/mp3/Thievery Corporation/Thievery Corporation - Sounds from Thievery Hi-Fi - 04 - Vivid.mp3">
+      <comentario>primera parte </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Buddha-Bar (CD Series)/Buddha-Bar III (CD2 - Joy) (by Ravin) (2001)/05 - Starlight In Daden (Aurora Remix) (Ekova).mp3"></cancion>
+    <cancion nombre="E:/mp3/Nitin Sawhney - Bengali song.mp3"></cancion>
+    <cancion nombre="E:/Mp3 Español/Hevia - Celta.mp3"></cancion>
+  </tipo>
+  <tipo nombre="CIUDAD ACTIVA">
+    <cancion nombre="E:/Musica peliculas/The Fifth Element - Korben Dallas.mp3"></cancion>
+    <cancion nombre="E:/mp3/Nitin Sawhney - Bengali song.mp3">
+      <comentario>principio es llegando a ciudad </comentario>
+    </cancion>
+    <cancion nombre="E:/Mp3 Español/Hevia - Corri Corri.mp3">
+      <comentario>procesión religiosa </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Ghost in ther Shell - OST - Soundtracks/Ghost in the Shell - Stand Alone Complex OST 2/13 - pet food.mp3">
+      <comentario>moviéndose rápido por la ciudad </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Buddha-Bar (CD Series)/Siddharta- Spirit Of Buddha Bar, Vol- 3 (2006)/21 - Shantel - Borino Oro.mp3">
+      <comentario>gitanos </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="CIUDAD TRANQUILA">
+    <cancion nombre="E:/Mp3 Español/Hevia - Baños de Budapest.mp3">
+      <comentario>tranqui al principio, después rápido </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="BAR">
+    <cancion nombre="E:/mp3/The Sabres of Paradise - Haunted Dancehall - 06 - Wilmot.mp3">
+      <comentario>bar, reggeatonero del plano astral </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="BARDICO">
+    <cancion nombre="E:/Mp3 Español/Alexandros Tefarikis - Gabriel.mp3"></cancion>
+    <cancion nombre="E:/Mp3 Español/Alexandros Tefarikis - Amistad.mp3">
+      <comentario>historias de amistad y buena onda </comentario>
+    </cancion>
+    <cancion nombre="E:/Mp3 Español/Alexandros Tefarikis - Antigua Grecia.mp3">
+      <comentario>tamborilleo rápido, guitarra rapida </comentario>
+    </cancion>
+    <cancion nombre="E:/Mp3 Español/Alexandros Tefarikis - Encuentros.mp3">
+      <comentario>flash back misterioso </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="AMBIENTAL">
+    <cancion nombre="E:/Mp3 Español/Alexandros Tefarikis - Pasos de Agua.mp3">
+      <comentario>riachuelos, 80 segundos </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/Top Gear S10 - Soundtrack update pack + Bonus CD/Top Gear S10E04 - Soundtrack/20.39 - 20.57 - Angelo Badalamenti - Diner.mp3">
+      <comentario>tensión </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="PACIFICO AMBIENTAL">
+    <cancion nombre="E:/mp3/Cafe del Mar - Volumen Siete - 01 - Lux - Northern Lights.mp3">
+      <comentario>reconstrucción mágica </comentario>
+    </cancion>
+    <cancion nombre="E:/mp3/Dead Can Dance - Baraka - Mantra Organics.mp3"></cancion>
+  </tipo>
+  <tipo nombre="POMPOSO">
+    <cancion nombre="E:/mp3/Top Gear Soundtrack - The Best Segun Ame/48.07 - 48.16 - Tchaikovsky - The Nutcracker, Act 1. 2. Marche.mp3">
+      <comentario>ridiculo </comentario>
+    </cancion>
+  </tipo>
+  <tipo nombre="SILLY">
+    <cancion nombre="E:/MP3 Ingles A - L/Eric Clapton - Hey Hey.mp3"></cancion>
+    <cancion nombre="E:/mp3/Top Gear S10E09 - Soundtrack/ Battles - Atlas.mp3"></cancion>
+    <cancion nombre="E:/mp3/Buddha-Bar (CD Series)/Buddha-Bar VII (CD2 - Sarangi) (By Ravin & David Visan) (2005)/11 - Mo' Horizons - Drum'n Boogaloo (Full Vocal Mix).mp3"></cancion>
+  </tipo>
+</lista>
+<!--circunsferencia de la tierra: 40.076 km.
+#601137-->

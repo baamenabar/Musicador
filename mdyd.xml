@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lista>
+<tipo nombre="DUNGEON">
+  <cancion nombre="D:\MP3 Ingles A - L\BT - Fast and the Furious.mp3"></cancion>
+</tipo>
+<tipo nombre="DUNGEON MISTERIO">
+  <cancion nombre="D:\mp3\Top Gear Soundtrack - The Best Segun Ame\Top Gear S10E06 - Soundtrack\19.27 - 19.53 - Murcof - Mir.mp3"></cancion>
+  <cancion nombre="D:\mp3\Hellsing Original Soundtracks 1 & 2\hellsing.ost.1.raid\[AM]Hellsing Original Soundtrack - Genzai - Shojo Wo Mamorinukenaiga Tameni.mp3"></cancion>
+  <cancion nombre="D:\mp3\Tarja Turunen - 2007 - My Winter Storm\14-tarja_turunen-sunset-ser.mp3"></cancion>
+</tipo>
+<tipo nombre="MISTERIO">
+  <cancion nombre="D:\mp3\Bruno Coulais - Les Choristes - 03 - L'arrivée À L'école.mp3"></cancion>
+  <cancion nombre="D:\mp3\Resident Evil (mix by DJ SAAV).mp3"> <comentario>terror</comentario></cancion>
+</tipo>
+<tipo nombre="BATTLE">
+  <cancion nombre="D:\mp3\Top Gear S10E09 - Soundtrack\ Alan Silvestri - End Title (Predator 2).mp3"></cancion>
+</tipo>
+<tipo nombre="HARD CORE BATTLE">
+  <cancion nombre="D:\mp3\Top Gear S10E09 - Soundtrack\ Amon Tobin - Esther's.mp3"></cancion>
+  <cancion nombre="D:\mp3\Top Gear S10E09 - Soundtrack\ Clint Mansell - Containment Breach.mp3"></cancion>
+  <cancion nombre="D:\mp3\Top Gear S10E09 - Soundtrack\ Clint Mansell - Doom.mp3"></cancion>
+  <cancion nombre="D:\mp3\Top Gear S10E09 - Soundtrack\ Clint Mansell - Mac Attack!.mp3"></cancion>
+</tipo>
+<tipo nombre="MYSTIC">
+  <cancion nombre="D:\mp3\Top Gear Soundtrack - The Best Segun Ame\Top Gear S10E01 - Soundtrack\53.12 - 54.14 - Dario Marianelli - Evey Reborn.mp3"></cancion>
+  <cancion nombre="D:\mp3\Tarja Turunen - 2007 - My Winter Storm\14-tarja_turunen-sunset-ser.mp3"></cancion>
+</tipo>
+<tipo nombre="SOLEDAD">
+  <cancion nombre="D:\mp3\Hellsing Original Soundtracks 1 & 2\hellsing.ost.1.raid\[AM]Hellsing Original Soundtrack - Akuma No Shiwazaka Kamiwazaka.mp3"></cancion>
+</tipo>
+<tipo nombre="AVENTURA">
+  <cancion nombre="D:\mp3\Hellsing Original Soundtracks 1 & 2\hellsing.ost.1.raid\[AM]Hellsing Original Soundtrack - Fuseijitsu Na Michi No Ue De No Survival.mp3"></cancion>
+  <cancion nombre="D:\mp3\Top Gear S10E09 - Soundtrack\ Ilan Eshkeri - Septimus.mp3"></cancion>
+</tipo>
+<tipo nombre="VIAJE">
+  <cancion nombre="D:\mp3\Ludovico Einaudi - Discografia\2007 - Echoes the collection\06 - Eden Roc.mp3"> <comentario>buena onda</comentario></cancion>
+  <cancion nombre="D:\download\Eddie Vedder - Into The Wild\06 - Eddie Vedder - Tuolumne.mp3"></cancion>
+  <cancion nombre="D:\mp3\Shaman - Ancient Winds.mp3"> <comentario>medio místico</comentario></cancion>
+</tipo>
+<tipo nombre="JUNGLA">
+  <cancion nombre="D:\Mp3 Español\Orishas - Intro.mp3"></cancion>
+  <cancion nombre="D:\mp3\Buddha-Bar (CD Series)\Buddha-Bar III (CD2 - Joy) (by Ravin) (2001)\05 - Starlight In Daden (Aurora Remix) (Ekova).mp3"> <comentario>tambores en la jungla</comentario></cancion>
+</tipo>
+<tipo nombre="NOCTURNO">
+  <cancion nombre="D:\mp3\Ludovico Einaudi - Discografia\2007 - Echoes the collection\08 - Tonight [Questa Notte].mp3"></cancion>
+</tipo>
+<tipo nombre="PUEBLO">
+  <cancion nombre="D:\mp3\Ludovico Einaudi - Discografia\2001 - Alexandria\24 - Tarantella.mp3"> <comentario>pueblo italiano</comentario></cancion>
+</tipo>
+<tipo nombre="SOMOS BAKANES">
+  <cancion nombre="D:\mp3\Hellsing Original Soundtracks 1 & 2\hellsing.ost.1.raid\[AM]Hellsing Original Soundtrack - Gakuon Yuugi Nengemishou.mp3"></cancion>
+</tipo>
+<tipo nombre="PACIFICO">
+  <cancion nombre="D:\mp3\Ludovico Einaudi - Discografia\2002 - Le stanze\08 - Respiro.mp3"> <comentario>mañana cristalina</comentario></cancion>
+</tipo>
+<tipo nombre="SILLY">
+  <cancion nombre="D:\mp3\Ghost in ther Shell - OST - Soundtracks\Ghost in the Shell - Stand Alone Complex OST 2 - Be Human\04_tachikoma_no_iede.mp3"> <comentario>haciendo tonteras</comentario></cancion>
+  <cancion nombre="D:\mp3\Ghost in ther Shell - OST - Soundtracks\Ghost in the Shell - Stand Alone Complex OST 2 - Be Human\06_bang_bang_banquet.mp3"> <comentario>paseando goofin por un bazaar o mercado</comentario></cancion>
+</tipo>
+<tipo nombre="HISTORIA/RELATO">
+  <cancion nombre="D:\mp3\Top Gear Soundtrack - The Best Segun Ame\Top Gear S10E06 - Soundtrack\23.13 - 23.48 - Harry Gregson-Williams - Crusaders.mp3"> <comentario>comienzo historia épica</comentario></cancion>
+  <cancion nombre="D:\download\Eddie Vedder - Into The Wild\06 - Eddie Vedder - Tuolumne.mp3"></cancion>
+  <cancion nombre="D:\mp3\Ludovico Einaudi - Discografia\2001 - Alexandria\24 - Tarantella.mp3"> <comentario>cuento de juventud italiana</comentario></cancion>
+</tipo>
+<tipo nombre="PUNTUALES">
+  <cancion nombre="D:\Musica peliculas\Shrek - I'm a Believer.mp3"></cancion>
+</tipo>
+</lista>
+<!------
+arrabor
+respubor
+Ófodif
+Lenuar
+Barikalemi
+Tchuniga
+Surugliname
+Ehjom
+Tedhall
+Eneiran
+Eilakache
+Lehek
+Korachag
+Glachabu
+Eribneri
+Comacham
+Mafaare
+Enyuu
+Chamdam
+Goyake
+Momo
+Wandel
+Soumah
+LeMañiWa
+MañiToko
+Mawehe
+Enuwa
+Loni
+Fayuwama
+Enuakine
+Fayuwana
+Limanta
+Manitoko
+Yutoo
+Siitwoo
+Seetwooh
+Switoo
+Groodoo
+Twooh
+Ainyanyo
+Safen
+Ligentio
+Hiltac
+Iffer
+Iferido
+Vixbel
+Idemor
+Ontico
+Peyecog
+Windelmar
+Jolm
+Mareshies
+Inejlie
+Emmandlejie
+Koprevoja
+Upfie
+Doski
+Gardick
+Kogrui
+Eshis
+Ena Disry
+Lobfree
+Menershis
+Cortleg
+Dasque
+Dordicajui
+Giliem
+Kirimembe
+Uterne
+Memvale
+Mijeler
+Ondiren
+Nineshe Tares
+Dobinche
+Lastinsel
+Ganvrel
+Daurishe
+Dravler
+Nofiuvandando
+Dagonshe
+Taeniee
+Diren
+Niilishe
+Dovrite
+Lastnsea
+Glastanveal
+Lagan
+Eshenrie
+Tietchi
+Sentsvers
+Mishenviel
+Lostraun
+Shies Tensver
+Smiel Danlastamgar
+Lerfei
+Mogtiti Ana kuber tie
+Mogtiti ana kuber fe
+Guber fe
+Kanartiejel
+Shempie
+Dan lostamdar
+Shiie Dorsdei
+Aungspei
+Ongspelt
+Lisk iskadel
+Andeaur
+Bekindelan
+Ouvuaig
+Musovel
+Auovel
+Thijiik
+Stilbiken
+Ekotehal
+Tubikin
+Oueing Kashen
+Nil uwei ka
+Kadewin dor
+Ovadyer
+Tubein
+Dol Debalen
+Nigibiru Nuangifaru
+Oeieik Nolkashe
+Aneank
+Wuludal Zouln
+Loluwe Iniatomeso
+Ichido
+Yawumbe
+Ehertau Damu
+Yuooh
+yawuba kalk
+Nonrakue
+Raolwein
+Ekearn
+Arekaln
+Oregaln
+magibiro nua iltaco
+magibiro nua giltako
+nagibiro nua fuon
+nua nua diayee ane am korontie
+Ane amu ontie
+Achitie
+Are amgu oltchie
+Tihiantu
+Tashetam
+Dashmi
+Ondiri
+Ounmalokara
+Mati Nash glia
+Bulrrin
+Fali fang gye
+Kulura
+chie chie
+Kuruga
+Kanetefe
+Cherie
+Moltili kara di
+ara kanete fe
+masala tanasa ke te fe
+seriie fang masak
+akurah
+kuruba
+mokele ta cha ra di
+Mosele kala te fe
+Moto Mocu turu luba
+tepa fain
+teapa faol
+kutupa
+leruku
+
+-->

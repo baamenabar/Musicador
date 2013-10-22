@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><application xmlns="http://ns.adobe.com/air/application/1.5">
+
+  <id>com.adobe.example.musicador</id>
+
+  <version>1.2.1</version>
+
+  <filename>musicador</filename>
+
+  <description/>
+
+  <name>musicador</name>
+
+  <copyright/>
+
+  <initialWindow>
+    <content>musicador.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <maximizable>true</maximizable>
+    <minimizable>true</minimizable>
+    <resizable>true</resizable>
+  </initialWindow>
+
+  <icon>
+    <image128x128>logos/logo-128.png</image128x128>
+    <image48x48>logos/logo-048.png</image48x48>
+    <image32x32>logos/logo-032.png</image32x32>
+    <image16x16>logos/logo-016.png</image16x16>
+  </icon>
+
+  <customUpdateUI>false</customUpdateUI>
+
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+
+
+
+</application>
